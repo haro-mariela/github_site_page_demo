@@ -1,2 +1,2 @@
 # github_site_page_demo
-practice a github site page
+Practicing a GitHub site page
